@@ -111,7 +111,7 @@ body{
     background-image: linear-gradient( rgba(123, 218, 255, 0.568), rgb(14, 121, 221));
     padding: 10px 20px;
     border-radius: 5px;
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight: 100;
     }
     p{
@@ -153,7 +153,7 @@ body{
   
           }
           .single-project{
-            box-shadow: 20px 20px  40px gray ;
+            box-shadow: 20px 20px  40px rgb(173, 232, 255) ;
             border-radius:5px ;
             height: 20%;
             background-color: white;
@@ -179,7 +179,7 @@ body{
          }
          .exp-area h2{
              color: rgb(255, 255, 255);
-             background-color: rgb(0, 119, 255);
+             background-color: rgb(0, 132, 255);
               border: black;
               border-radius: 7px;
               width: 80%;
