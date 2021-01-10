@@ -14,7 +14,7 @@ body{
     width: 100%;
   }
   label.logo{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 35px;
     line-height: 80px;
     padding: 0 100px;
@@ -219,9 +219,6 @@ body{
           margin-left: 500px;
           background-size: 870px;
           margin-bottom: 50px;
-         
-  
-  
         }
         .wi{
       text-align: left;
